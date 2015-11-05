@@ -178,7 +178,7 @@
                         console.log('Error in variant name.');
                     },
                     failure: function (response) {
-                        console.log('Failure in variant name.);
+                        console.log('Failure in variant name.');
                     }
                 });
             },
